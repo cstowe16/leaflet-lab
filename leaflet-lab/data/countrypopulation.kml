@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="countrypopulation" id="countrypopulation">
+	<SimpleField name="Country" type="string"></SimpleField>
+	<SimpleField name="1980_1" type="float"></SimpleField>
+	<SimpleField name="1985_1" type="float"></SimpleField>
+	<SimpleField name="1990_1" type="float"></SimpleField>
+	<SimpleField name="1995_1" type="float"></SimpleField>
+	<SimpleField name="2000_1" type="float"></SimpleField>
+	<SimpleField name="2005_1" type="float"></SimpleField>
+	<SimpleField name="2010_1" type="float"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="color" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="precision" type="string"></SimpleField>
+</Schema>
+<Folder><name>countrypopulation</name>
+  <Placemark>
+	<name>Bermuda</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Bermuda</SimpleData>
+		<SimpleData name="1980_1">0.05473</SimpleData>
+		<SimpleData name="1985_1">0.05618</SimpleData>
+		<SimpleData name="1990_1">0.05778</SimpleData>
+		<SimpleData name="1995_1">0.06029</SimpleData>
+		<SimpleData name="2000_1">0.06306</SimpleData>
+		<SimpleData name="2005_1">0.06591</SimpleData>
+		<SimpleData name="2010_1">0.06827</SimpleData>
+		<SimpleData name="latitude">32.301822</SimpleData>
+		<SimpleData name="longitude">-64.760358</SimpleData>
+		<SimpleData name="desc">BM</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.301822,-64.760358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canada</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="1980_1">24.5933</SimpleData>
+		<SimpleData name="1985_1">25.9416</SimpleData>
+		<SimpleData name="1990_1">27.7906</SimpleData>
+		<SimpleData name="1995_1">29.69053</SimpleData>
+		<SimpleData name="2000_1">31.09956</SimpleData>
+		<SimpleData name="2005_1">32.38638</SimpleData>
+		<SimpleData name="2010_1">33.75974</SimpleData>
+		<SimpleData name="latitude">61.066692</SimpleData>
+		<SimpleData name="longitude">-107.991707</SimpleData>
+		<SimpleData name="desc">CA</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.066692,-107.991707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greenland</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Greenland</SimpleData>
+		<SimpleData name="1980_1">0.05021</SimpleData>
+		<SimpleData name="1985_1">0.05315</SimpleData>
+		<SimpleData name="1990_1">0.05563</SimpleData>
+		<SimpleData name="1995_1">0.05619</SimpleData>
+		<SimpleData name="2000_1">0.05689</SimpleData>
+		<SimpleData name="2005_1">0.05778</SimpleData>
+		<SimpleData name="2010_1">0.05764</SimpleData>
+		<SimpleData name="latitude">77.619235</SimpleData>
+		<SimpleData name="longitude">-42.812597</SimpleData>
+		<SimpleData name="desc">GL</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.619235,-42.812597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mexico</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Mexico</SimpleData>
+		<SimpleData name="1980_1">68.34748</SimpleData>
+		<SimpleData name="1985_1">76.76723</SimpleData>
+		<SimpleData name="1990_1">84.91365</SimpleData>
+		<SimpleData name="1995_1">92.88035</SimpleData>
+		<SimpleData name="2000_1">99.92662</SimpleData>
+		<SimpleData name="2005_1">106.2029</SimpleData>
+		<SimpleData name="2010_1">112.46886</SimpleData>
+		<SimpleData name="latitude">22.500049</SimpleData>
+		<SimpleData name="longitude">-100.000037</SimpleData>
+		<SimpleData name="desc">MX</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>22.500049,-100.000037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Pierre and Miquelon</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Saint Pierre and Miquelon</SimpleData>
+		<SimpleData name="1980_1">0.00599</SimpleData>
+		<SimpleData name="1985_1">0.00616</SimpleData>
+		<SimpleData name="1990_1">0.00632</SimpleData>
+		<SimpleData name="1995_1">0.0064</SimpleData>
+		<SimpleData name="2000_1">0.00641</SimpleData>
+		<SimpleData name="2005_1">0.0062</SimpleData>
+		<SimpleData name="2010_1">0.00594</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.78373,-100.445882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>United States</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="1980_1">227.22468</SimpleData>
+		<SimpleData name="1985_1">237.9238</SimpleData>
+		<SimpleData name="1990_1">249.62281</SimpleData>
+		<SimpleData name="1995_1">266.27839</SimpleData>
+		<SimpleData name="2000_1">282.17196</SimpleData>
+		<SimpleData name="2005_1">295.75315</SimpleData>
+		<SimpleData name="2010_1">310.23286</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.78373,-100.445882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Antigua and Barbuda</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Antigua and Barbuda</SimpleData>
+		<SimpleData name="1980_1">0.06855</SimpleData>
+		<SimpleData name="1985_1">0.0644</SimpleData>
+		<SimpleData name="1990_1">0.06416</SimpleData>
+		<SimpleData name="1995_1">0.06871</SimpleData>
+		<SimpleData name="2000_1">0.07535</SimpleData>
+		<SimpleData name="2005_1">0.08128</SimpleData>
+		<SimpleData name="2010_1">0.08675</SimpleData>
+		<SimpleData name="latitude">17.079128</SimpleData>
+		<SimpleData name="longitude">-61.822252</SimpleData>
+		<SimpleData name="desc">AG</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.079128,-61.822252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Argentina</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Argentina</SimpleData>
+		<SimpleData name="1980_1">28.3698</SimpleData>
+		<SimpleData name="1985_1">30.67176</SimpleData>
+		<SimpleData name="1990_1">33.03558</SimpleData>
+		<SimpleData name="1995_1">35.27384</SimpleData>
+		<SimpleData name="2000_1">37.33565</SimpleData>
+		<SimpleData name="2005_1">39.18126</SimpleData>
+		<SimpleData name="2010_1">41.3432</SimpleData>
+		<SimpleData name="latitude">-34.996496</SimpleData>
+		<SimpleData name="longitude">-64.967282</SimpleData>
+		<SimpleData name="desc">AR</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-34.996496,-64.967282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bahamas, The</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Bahamas, The</SimpleData>
+		<SimpleData name="1980_1">0.20976</SimpleData>
+		<SimpleData name="1985_1">0.2282</SimpleData>
+		<SimpleData name="1990_1">0.24513</SimpleData>
+		<SimpleData name="1995_1">0.26518</SimpleData>
+		<SimpleData name="2000_1">0.28259</SimpleData>
+		<SimpleData name="2005_1">0.29671</SimpleData>
+		<SimpleData name="2010_1">0.31043</SimpleData>
+		<SimpleData name="latitude">24.773655</SimpleData>
+		<SimpleData name="longitude">-78.000055</SimpleData>
+		<SimpleData name="desc">BS</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.773655,-78.000055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barbados</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Barbados</SimpleData>
+		<SimpleData name="1980_1">0.25197</SimpleData>
+		<SimpleData name="1985_1">0.25725</SimpleData>
+		<SimpleData name="1990_1">0.26226</SimpleData>
+		<SimpleData name="1995_1">0.26767</SimpleData>
+		<SimpleData name="2000_1">0.27368</SimpleData>
+		<SimpleData name="2005_1">0.28004</SimpleData>
+		<SimpleData name="2010_1">0.28565</SimpleData>
+		<SimpleData name="latitude">13.150033</SimpleData>
+		<SimpleData name="longitude">-59.52503</SimpleData>
+		<SimpleData name="desc">BB</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.150033,-59.52503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belize</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Belize</SimpleData>
+		<SimpleData name="1980_1">0.14442</SimpleData>
+		<SimpleData name="1985_1">0.16556</SimpleData>
+		<SimpleData name="1990_1">0.19087</SimpleData>
+		<SimpleData name="1995_1">0.21717</SimpleData>
+		<SimpleData name="2000_1">0.248</SimpleData>
+		<SimpleData name="2005_1">0.28129</SimpleData>
+		<SimpleData name="2010_1">0.31452</SimpleData>
+		<SimpleData name="latitude">16.825979</SimpleData>
+		<SimpleData name="longitude">-88.760093</SimpleData>
+		<SimpleData name="desc">BZ</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.825979,-88.760093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bolivia</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Bolivia</SimpleData>
+		<SimpleData name="1980_1">5.4413</SimpleData>
+		<SimpleData name="1985_1">5.93494</SimpleData>
+		<SimpleData name="1990_1">6.5739</SimpleData>
+		<SimpleData name="1995_1">7.37487</SimpleData>
+		<SimpleData name="2000_1">8.1951</SimpleData>
+		<SimpleData name="2005_1">9.07294</SimpleData>
+		<SimpleData name="2010_1">9.94742</SimpleData>
+		<SimpleData name="latitude">-17.05687</SimpleData>
+		<SimpleData name="longitude">-64.991229</SimpleData>
+		<SimpleData name="desc">BO</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-17.05687,-64.991229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brazil</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Brazil</SimpleData>
+		<SimpleData name="1980_1">123.01963</SimpleData>
+		<SimpleData name="1985_1">137.38198</SimpleData>
+		<SimpleData name="1990_1">151.17006</SimpleData>
+		<SimpleData name="1995_1">163.54428</SimpleData>
+		<SimpleData name="2000_1">176.31962</SimpleData>
+		<SimpleData name="2005_1">188.99308</SimpleData>
+		<SimpleData name="2010_1">201.10333</SimpleData>
+		<SimpleData name="latitude">-10.333333</SimpleData>
+		<SimpleData name="longitude">-53.2</SimpleData>
+		<SimpleData name="desc">BR</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-10.333333,-53.2</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cayman Islands</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Cayman Islands</SimpleData>
+		<SimpleData name="1980_1">0.01708</SimpleData>
+		<SimpleData name="1985_1">0.02085</SimpleData>
+		<SimpleData name="1990_1">0.02636</SimpleData>
+		<SimpleData name="1995_1">0.03249</SimpleData>
+		<SimpleData name="2000_1">0.03844</SimpleData>
+		<SimpleData name="2005_1">0.04434</SimpleData>
+		<SimpleData name="2010_1">0.05021</SimpleData>
+		<SimpleData name="latitude">19.541721</SimpleData>
+		<SimpleData name="longitude">-80.566713</SimpleData>
+		<SimpleData name="desc">KY</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.541721,-80.566713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chile</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Chile</SimpleData>
+		<SimpleData name="1980_1">11.09372</SimpleData>
+		<SimpleData name="1985_1">12.0678</SimpleData>
+		<SimpleData name="1990_1">13.12892</SimpleData>
+		<SimpleData name="1995_1">14.20661</SimpleData>
+		<SimpleData name="2000_1">15.15574</SimpleData>
+		<SimpleData name="2005_1">15.99504</SimpleData>
+		<SimpleData name="2010_1">16.74649</SimpleData>
+		<SimpleData name="latitude">-31.761336</SimpleData>
+		<SimpleData name="longitude">-71.31877</SimpleData>
+		<SimpleData name="desc">CL</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-31.761336,-71.31877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colombia</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Colombia</SimpleData>
+		<SimpleData name="1980_1">26.63129</SimpleData>
+		<SimpleData name="1985_1">29.74762</SimpleData>
+		<SimpleData name="1990_1">33.14725</SimpleData>
+		<SimpleData name="1995_1">36.53183</SimpleData>
+		<SimpleData name="2000_1">38.91035</SimpleData>
+		<SimpleData name="2005_1">41.48778</SimpleData>
+		<SimpleData name="2010_1">44.20529</SimpleData>
+		<SimpleData name="latitude">2.889443</SimpleData>
+		<SimpleData name="longitude">-73.783892</SimpleData>
+		<SimpleData name="desc">CO</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.889443,-73.783892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Costa Rica</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Costa Rica</SimpleData>
+		<SimpleData name="1980_1">2.29912</SimpleData>
+		<SimpleData name="1985_1">2.64431</SimpleData>
+		<SimpleData name="1990_1">3.02327</SimpleData>
+		<SimpleData name="1995_1">3.44474</SimpleData>
+		<SimpleData name="2000_1">3.88258</SimpleData>
+		<SimpleData name="2005_1">4.20869</SimpleData>
+		<SimpleData name="2010_1">4.51622</SimpleData>
+		<SimpleData name="latitude">10.273563</SimpleData>
+		<SimpleData name="longitude">-84.07391</SimpleData>
+		<SimpleData name="desc">CR</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.273563,-84.07391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cuba</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Cuba</SimpleData>
+		<SimpleData name="1980_1">9.65298</SimpleData>
+		<SimpleData name="1985_1">10.06563</SimpleData>
+		<SimpleData name="1990_1">10.51344</SimpleData>
+		<SimpleData name="1995_1">10.86545</SimpleData>
+		<SimpleData name="2000_1">11.10586</SimpleData>
+		<SimpleData name="2005_1">11.32615</SimpleData>
+		<SimpleData name="2010_1">11.47746</SimpleData>
+		<SimpleData name="latitude">23.013134</SimpleData>
+		<SimpleData name="longitude">-80.832875</SimpleData>
+		<SimpleData name="desc">CU</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.013134,-80.832875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dominica</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Dominica</SimpleData>
+		<SimpleData name="1980_1">0.07389</SimpleData>
+		<SimpleData name="1985_1">0.07311</SimpleData>
+		<SimpleData name="1990_1">0.07001</SimpleData>
+		<SimpleData name="1995_1">0.07142</SimpleData>
+		<SimpleData name="2000_1">0.07082</SimpleData>
+		<SimpleData name="2005_1">0.07212</SimpleData>
+		<SimpleData name="2010_1">0.07281</SimpleData>
+		<SimpleData name="latitude">15.411314</SimpleData>
+		<SimpleData name="longitude">-61.365362</SimpleData>
+		<SimpleData name="desc">DM</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.411314,-61.365362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dominican Republic</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Dominican Republic</SimpleData>
+		<SimpleData name="1980_1">5.69686</SimpleData>
+		<SimpleData name="1985_1">6.37855</SimpleData>
+		<SimpleData name="1990_1">7.08362</SimpleData>
+		<SimpleData name="1995_1">7.75897</SimpleData>
+		<SimpleData name="2000_1">8.46891</SimpleData>
+		<SimpleData name="2005_1">9.16447</SimpleData>
+		<SimpleData name="2010_1">9.82382</SimpleData>
+		<SimpleData name="latitude">19.097403</SimpleData>
+		<SimpleData name="longitude">-70.302803</SimpleData>
+		<SimpleData name="desc">DO</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.097403,-70.302803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ecuador</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Ecuador</SimpleData>
+		<SimpleData name="1980_1">7.9205</SimpleData>
+		<SimpleData name="1985_1">9.06166</SimpleData>
+		<SimpleData name="1990_1">10.31804</SimpleData>
+		<SimpleData name="1995_1">11.26561</SimpleData>
+		<SimpleData name="2000_1">12.44584</SimpleData>
+		<SimpleData name="2005_1">13.66232</SimpleData>
+		<SimpleData name="2010_1">14.79061</SimpleData>
+		<SimpleData name="latitude">-1.339767</SimpleData>
+		<SimpleData name="longitude">-79.366696</SimpleData>
+		<SimpleData name="desc">EC</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.339767,-79.366696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>El Salvador</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">El Salvador</SimpleData>
+		<SimpleData name="1980_1">4.57041</SimpleData>
+		<SimpleData name="1985_1">4.67105</SimpleData>
+		<SimpleData name="1990_1">5.10982</SimpleData>
+		<SimpleData name="1995_1">5.47983</SimpleData>
+		<SimpleData name="2000_1">5.84982</SimpleData>
+		<SimpleData name="2005_1">5.95622</SimpleData>
+		<SimpleData name="2010_1">6.05206</SimpleData>
+		<SimpleData name="latitude">13.800038</SimpleData>
+		<SimpleData name="longitude">-88.914068</SimpleData>
+		<SimpleData name="desc">SV</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.800038,-88.914068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Falkland Islands (Islas Malvinas)</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Falkland Islands (Islas Malvinas)</SimpleData>
+		<SimpleData name="1980_1">0.002</SimpleData>
+		<SimpleData name="1985_1">0.002</SimpleData>
+		<SimpleData name="1990_1">0.002</SimpleData>
+		<SimpleData name="1995_1">0.002</SimpleData>
+		<SimpleData name="2000_1">0.00285</SimpleData>
+		<SimpleData name="2005_1">0.00297</SimpleData>
+		<SimpleData name="2010_1">0.00314</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.78373,-100.445882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>French Guiana</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">French Guiana</SimpleData>
+		<SimpleData name="1980_1">0.07</SimpleData>
+		<SimpleData name="1985_1">0.09</SimpleData>
+		<SimpleData name="1990_1">0.12</SimpleData>
+		<SimpleData name="1995_1">0.15</SimpleData>
+		<SimpleData name="2000_1">0.17</SimpleData>
+		<SimpleData name="2005_1">0.19131</SimpleData>
+		<SimpleData name="2010_1">0.19131</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.78373,-100.445882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grenada</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Grenada</SimpleData>
+		<SimpleData name="1980_1">0.09016</SimpleData>
+		<SimpleData name="1985_1">0.09306</SimpleData>
+		<SimpleData name="1990_1">0.0942</SimpleData>
+		<SimpleData name="1995_1">0.09774</SimpleData>
+		<SimpleData name="2000_1">0.10161</SimpleData>
+		<SimpleData name="2005_1">0.10459</SimpleData>
+		<SimpleData name="2010_1">0.10782</SimpleData>
+		<SimpleData name="latitude">12.136037</SimpleData>
+		<SimpleData name="longitude">-61.690404</SimpleData>
+		<SimpleData name="desc">GD</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.136037,-61.690404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guadeloupe</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Guadeloupe</SimpleData>
+		<SimpleData name="1980_1">0.337</SimpleData>
+		<SimpleData name="1985_1">0.354</SimpleData>
+		<SimpleData name="1990_1">0.39</SimpleData>
+		<SimpleData name="1995_1">0.42</SimpleData>
+		<SimpleData name="2000_1">0.43</SimpleData>
+		<SimpleData name="2005_1">0.44452</SimpleData>
+		<SimpleData name="2010_1">0.44452</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.78373,-100.445882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guatemala</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Guatemala</SimpleData>
+		<SimpleData name="1980_1">6.64959</SimpleData>
+		<SimpleData name="1985_1">7.58084</SimpleData>
+		<SimpleData name="1990_1">8.96555</SimpleData>
+		<SimpleData name="1995_1">10.02782</SimpleData>
+		<SimpleData name="2000_1">11.08503</SimpleData>
+		<SimpleData name="2005_1">12.18255</SimpleData>
+		<SimpleData name="2010_1">13.55044</SimpleData>
+		<SimpleData name="latitude">15.635609</SimpleData>
+		<SimpleData name="longitude">-89.898809</SimpleData>
+		<SimpleData name="desc">GT</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.635609,-89.898809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guyana</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Guyana</SimpleData>
+		<SimpleData name="1980_1">0.75935</SimpleData>
+		<SimpleData name="1985_1">0.76225</SimpleData>
+		<SimpleData name="1990_1">0.77153</SimpleData>
+		<SimpleData name="1995_1">0.76916</SimpleData>
+		<SimpleData name="2000_1">0.78556</SimpleData>
+		<SimpleData name="2005_1">0.7765</SimpleData>
+		<SimpleData name="2010_1">0.74849</SimpleData>
+		<SimpleData name="latitude">4.88732</SimpleData>
+		<SimpleData name="longitude">-58.93988</SimpleData>
+		<SimpleData name="desc">GY</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.88732,-58.93988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Haiti</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Haiti</SimpleData>
+		<SimpleData name="1980_1">5.5077</SimpleData>
+		<SimpleData name="1985_1">6.11992</SimpleData>
+		<SimpleData name="1990_1">6.79794</SimpleData>
+		<SimpleData name="1995_1">7.5704</SimpleData>
+		<SimpleData name="2000_1">8.41289</SimpleData>
+		<SimpleData name="2005_1">9.20467</SimpleData>
+		<SimpleData name="2010_1">9.64892</SimpleData>
+		<SimpleData name="latitude">19.139995</SimpleData>
+		<SimpleData name="longitude">-72.357097</SimpleData>
+		<SimpleData name="desc">HT</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.139995,-72.357097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Honduras</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Honduras</SimpleData>
+		<SimpleData name="1980_1">3.40247</SimpleData>
+		<SimpleData name="1985_1">4.07731</SimpleData>
+		<SimpleData name="1990_1">4.79403</SimpleData>
+		<SimpleData name="1995_1">5.55079</SimpleData>
+		<SimpleData name="2000_1">6.3594</SimpleData>
+		<SimpleData name="2005_1">7.19307</SimpleData>
+		<SimpleData name="2010_1">7.98942</SimpleData>
+		<SimpleData name="latitude">15.257243</SimpleData>
+		<SimpleData name="longitude">-86.075514</SimpleData>
+		<SimpleData name="desc">HN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.257243,-86.075514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jamaica</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Jamaica</SimpleData>
+		<SimpleData name="1980_1">2.2288</SimpleData>
+		<SimpleData name="1985_1">2.31818</SimpleData>
+		<SimpleData name="1990_1">2.34701</SimpleData>
+		<SimpleData name="1995_1">2.46907</SimpleData>
+		<SimpleData name="2000_1">2.61563</SimpleData>
+		<SimpleData name="2005_1">2.73651</SimpleData>
+		<SimpleData name="2010_1">2.84723</SimpleData>
+		<SimpleData name="latitude">18.185051</SimpleData>
+		<SimpleData name="longitude">-77.394769</SimpleData>
+		<SimpleData name="desc">JM</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.185051,-77.394769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martinique</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Martinique</SimpleData>
+		<SimpleData name="1980_1">0.339</SimpleData>
+		<SimpleData name="1985_1">0.353</SimpleData>
+		<SimpleData name="1990_1">0.374</SimpleData>
+		<SimpleData name="1995_1">0.394</SimpleData>
+		<SimpleData name="2000_1">0.416</SimpleData>
+		<SimpleData name="2005_1">0.426</SimpleData>
+		<SimpleData name="2010_1">0.426</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.78373,-100.445882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montserrat</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Montserrat</SimpleData>
+		<SimpleData name="1980_1">0.01177</SimpleData>
+		<SimpleData name="1985_1">0.01132</SimpleData>
+		<SimpleData name="1990_1">0.01073</SimpleData>
+		<SimpleData name="1995_1">0.01027</SimpleData>
+		<SimpleData name="2000_1">0.00395</SimpleData>
+		<SimpleData name="2005_1">0.00453</SimpleData>
+		<SimpleData name="2010_1">0.00512</SimpleData>
+		<SimpleData name="latitude">16.741704</SimpleData>
+		<SimpleData name="longitude">-62.191684</SimpleData>
+		<SimpleData name="desc">MS</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.741704,-62.191684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Netherlands Antilles</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Netherlands Antilles</SimpleData>
+		<SimpleData name="1980_1">0.23244</SimpleData>
+		<SimpleData name="1985_1">0.24443</SimpleData>
+		<SimpleData name="1990_1">0.18879</SimpleData>
+		<SimpleData name="1995_1">0.19891</SimpleData>
+		<SimpleData name="2000_1">0.21018</SimpleData>
+		<SimpleData name="2005_1">0.2201</SimpleData>
+		<SimpleData name="2010_1">0.22869</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.78373,-100.445882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nicaragua</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Nicaragua</SimpleData>
+		<SimpleData name="1980_1">2.80565</SimpleData>
+		<SimpleData name="1985_1">3.19084</SimpleData>
+		<SimpleData name="1990_1">3.68513</SimpleData>
+		<SimpleData name="1995_1">4.38462</SimpleData>
+		<SimpleData name="2000_1">4.93515</SimpleData>
+		<SimpleData name="2005_1">5.46918</SimpleData>
+		<SimpleData name="2010_1">5.99593</SimpleData>
+		<SimpleData name="latitude">12.372493</SimpleData>
+		<SimpleData name="longitude">-84.870031</SimpleData>
+		<SimpleData name="desc">NI</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.372493,-84.870031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Panama</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Panama</SimpleData>
+		<SimpleData name="1980_1">1.95957</SimpleData>
+		<SimpleData name="1985_1">2.16762</SimpleData>
+		<SimpleData name="1990_1">2.39344</SimpleData>
+		<SimpleData name="1995_1">2.63817</SimpleData>
+		<SimpleData name="2000_1">2.89951</SimpleData>
+		<SimpleData name="2005_1">3.15503</SimpleData>
+		<SimpleData name="2010_1">3.41068</SimpleData>
+		<SimpleData name="latitude">8.309607</SimpleData>
+		<SimpleData name="longitude">-81.306625</SimpleData>
+		<SimpleData name="desc">PA</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.309607,-81.306625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraguay</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Paraguay</SimpleData>
+		<SimpleData name="1980_1">3.1716</SimpleData>
+		<SimpleData name="1985_1">3.63346</SimpleData>
+		<SimpleData name="1990_1">4.20049</SimpleData>
+		<SimpleData name="1995_1">4.82556</SimpleData>
+		<SimpleData name="2000_1">5.41824</SimpleData>
+		<SimpleData name="2005_1">5.92554</SimpleData>
+		<SimpleData name="2010_1">6.37583</SimpleData>
+		<SimpleData name="latitude">-23.316593</SimpleData>
+		<SimpleData name="longitude">-58.169344</SimpleData>
+		<SimpleData name="desc">PY</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-23.316593,-58.169344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peru</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Peru</SimpleData>
+		<SimpleData name="1980_1">17.2953</SimpleData>
+		<SimpleData name="1985_1">19.43193</SimpleData>
+		<SimpleData name="1990_1">21.59975</SimpleData>
+		<SimpleData name="1995_1">23.94219</SimpleData>
+		<SimpleData name="2000_1">26.0867</SimpleData>
+		<SimpleData name="2005_1">28.05111</SimpleData>
+		<SimpleData name="2010_1">29.907</SimpleData>
+		<SimpleData name="latitude">-6.86997</SimpleData>
+		<SimpleData name="longitude">-75.045851</SimpleData>
+		<SimpleData name="desc">PE</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.86997,-75.045851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Puerto Rico</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Puerto Rico</SimpleData>
+		<SimpleData name="1980_1">3.20965</SimpleData>
+		<SimpleData name="1985_1">3.38211</SimpleData>
+		<SimpleData name="1990_1">3.53691</SimpleData>
+		<SimpleData name="1995_1">3.6831</SimpleData>
+		<SimpleData name="2000_1">3.81441</SimpleData>
+		<SimpleData name="2005_1">3.91072</SimpleData>
+		<SimpleData name="2010_1">3.9787</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.78373,-100.445882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Kitts and Nevis</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Saint Kitts and Nevis</SimpleData>
+		<SimpleData name="1980_1">0.04357</SimpleData>
+		<SimpleData name="1985_1">0.04293</SimpleData>
+		<SimpleData name="1990_1">0.04166</SimpleData>
+		<SimpleData name="1995_1">0.04313</SimpleData>
+		<SimpleData name="2000_1">0.04566</SimpleData>
+		<SimpleData name="2005_1">0.0479</SimpleData>
+		<SimpleData name="2010_1">0.0499</SimpleData>
+		<SimpleData name="latitude">17.346228</SimpleData>
+		<SimpleData name="longitude">-62.768728</SimpleData>
+		<SimpleData name="desc">KN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.346228,-62.768728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Lucia</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Saint Lucia</SimpleData>
+		<SimpleData name="1980_1">0.12248</SimpleData>
+		<SimpleData name="1985_1">0.13101</SimpleData>
+		<SimpleData name="1990_1">0.13756</SimpleData>
+		<SimpleData name="1995_1">0.1465</SimpleData>
+		<SimpleData name="2000_1">0.1533</SimpleData>
+		<SimpleData name="2005_1">0.15737</SimpleData>
+		<SimpleData name="2010_1">0.16092</SimpleData>
+		<SimpleData name="latitude">13.825049</SimpleData>
+		<SimpleData name="longitude">-60.975036</SimpleData>
+		<SimpleData name="desc">LC</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.825049,-60.975036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Vincent/Grenadines</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Saint Vincent/Grenadines</SimpleData>
+		<SimpleData name="1980_1">0.09814</SimpleData>
+		<SimpleData name="1985_1">0.10385</SimpleData>
+		<SimpleData name="1990_1">0.10739</SimpleData>
+		<SimpleData name="1995_1">0.10879</SimpleData>
+		<SimpleData name="2000_1">0.10786</SimpleData>
+		<SimpleData name="2005_1">0.10607</SimpleData>
+		<SimpleData name="2010_1">0.10422</SimpleData>
+		<SimpleData name="latitude">12.90447</SimpleData>
+		<SimpleData name="longitude">-61.276557</SimpleData>
+		<SimpleData name="desc">VC</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.90447,-61.276557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Suriname</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Suriname</SimpleData>
+		<SimpleData name="1980_1">0.35408</SimpleData>
+		<SimpleData name="1985_1">0.38042</SimpleData>
+		<SimpleData name="1990_1">0.3948</SimpleData>
+		<SimpleData name="1995_1">0.40283</SimpleData>
+		<SimpleData name="2000_1">0.43249</SimpleData>
+		<SimpleData name="2005_1">0.4605</SimpleData>
+		<SimpleData name="2010_1">0.48662</SimpleData>
+		<SimpleData name="latitude">4.141303</SimpleData>
+		<SimpleData name="longitude">-56.077119</SimpleData>
+		<SimpleData name="desc">SR</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.141303,-56.077119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trinidad and Tobago</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Trinidad and Tobago</SimpleData>
+		<SimpleData name="1980_1">1.09051</SimpleData>
+		<SimpleData name="1985_1">1.18903</SimpleData>
+		<SimpleData name="1990_1">1.25519</SimpleData>
+		<SimpleData name="1995_1">1.26432</SimpleData>
+		<SimpleData name="2000_1">1.25178</SimpleData>
+		<SimpleData name="2005_1">1.23669</SimpleData>
+		<SimpleData name="2010_1">1.22869</SimpleData>
+		<SimpleData name="latitude">10.867785</SimpleData>
+		<SimpleData name="longitude">-60.982107</SimpleData>
+		<SimpleData name="desc">TT</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.867785,-60.982107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Turks and Caicos Islands</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Turks and Caicos Islands</SimpleData>
+		<SimpleData name="1980_1">0.00747</SimpleData>
+		<SimpleData name="1985_1">0.00932</SimpleData>
+		<SimpleData name="1990_1">0.01151</SimpleData>
+		<SimpleData name="1995_1">0.01444</SimpleData>
+		<SimpleData name="2000_1">0.01751</SimpleData>
+		<SimpleData name="2005_1">0.02057</SimpleData>
+		<SimpleData name="2010_1">0.02353</SimpleData>
+		<SimpleData name="latitude">21.721468</SimpleData>
+		<SimpleData name="longitude">-71.620178</SimpleData>
+		<SimpleData name="desc">TC</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.721468,-71.620178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uruguay</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Uruguay</SimpleData>
+		<SimpleData name="1980_1">2.93049</SimpleData>
+		<SimpleData name="1985_1">3.0121</SimpleData>
+		<SimpleData name="1990_1">3.10954</SimpleData>
+		<SimpleData name="1995_1">3.21926</SimpleData>
+		<SimpleData name="2000_1">3.32808</SimpleData>
+		<SimpleData name="2005_1">3.42489</SimpleData>
+		<SimpleData name="2010_1">3.51039</SimpleData>
+		<SimpleData name="latitude">-32.875555</SimpleData>
+		<SimpleData name="longitude">-56.020152</SimpleData>
+		<SimpleData name="desc">UY</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-32.875555,-56.020152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Venezuela</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Venezuela</SimpleData>
+		<SimpleData name="1980_1">14.76789</SimpleData>
+		<SimpleData name="1985_1">16.99751</SimpleData>
+		<SimpleData name="1990_1">19.32522</SimpleData>
+		<SimpleData name="1995_1">21.549</SimpleData>
+		<SimpleData name="2000_1">23.49275</SimpleData>
+		<SimpleData name="2005_1">25.26918</SimpleData>
+		<SimpleData name="2010_1">27.22323</SimpleData>
+		<SimpleData name="latitude">8.001871</SimpleData>
+		<SimpleData name="longitude">-66.110932</SimpleData>
+		<SimpleData name="desc">VE</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.001871,-66.110932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Virgin Islands, U.S.</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Virgin Islands,  U.S.</SimpleData>
+		<SimpleData name="1980_1">0.09964</SimpleData>
+		<SimpleData name="1985_1">0.10076</SimpleData>
+		<SimpleData name="1990_1">0.10396</SimpleData>
+		<SimpleData name="1995_1">0.10782</SimpleData>
+		<SimpleData name="2000_1">0.10864</SimpleData>
+		<SimpleData name="2005_1">0.1096</SimpleData>
+		<SimpleData name="2010_1">0.10975</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.78373,-100.445882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Virgin Islands, British</name>
+	<ExtendedData><SchemaData schemaUrl="#countrypopulation">
+		<SimpleData name="Country">Virgin Islands, British</SimpleData>
+		<SimpleData name="1980_1">0.011</SimpleData>
+		<SimpleData name="1985_1">0.01318</SimpleData>
+		<SimpleData name="1990_1">0.01569</SimpleData>
+		<SimpleData name="1995_1">0.01813</SimpleData>
+		<SimpleData name="2000_1">0.02038</SimpleData>
+		<SimpleData name="2005_1">0.02268</SimpleData>
+		<SimpleData name="2010_1">0.02494</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.78373,-100.445882</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
