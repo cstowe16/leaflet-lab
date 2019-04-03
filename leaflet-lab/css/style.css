@@ -1,2 +1,31 @@
 /*this is style.css*/
 #mapid { height: 600px; }
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+#mapid {
+    height: 600px;
+    width: 50%;
+    display: inline-block;
+}
+
+#panel {
+    width: 26%;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    line-height: 42px;
+}
+
+.range-slider {
+    width: 50%;
+}
+
+#forward {
+    float: right;
+}
+
+#reverse {
+    float: left;
+}
